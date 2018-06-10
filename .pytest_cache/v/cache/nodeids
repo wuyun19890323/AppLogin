@@ -1,0 +1,4 @@
+[
+  "scripts/test_login.py::TestLogin::()::test_login[args0]",
+  "scripts/test_login.py::TestLogin::()::test_login[args1]"
+]

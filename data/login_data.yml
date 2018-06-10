@@ -1,0 +1,9 @@
+test_login:
+  test_login_001:
+    username: "13472435946"
+    password: "123456"
+    toast: "成功"
+  test_login_002:
+    username: "185030803051"
+    password: "123000"
+    toast: "不存在"
